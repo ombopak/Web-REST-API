@@ -1,0 +1,73 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "BOOKDATABASEContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "RESTAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AUTHOR]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BOOK]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CATEGORY]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PUBLISHER]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CreateBook]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteBook]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAllBook]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetBookById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateBook]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "DESKTOP-OFH7V99.BOOKDATABASE",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
